@@ -7,7 +7,7 @@
 		"movement": 2,
 		"strength": 12,
 		"cost": 100,
-		"promotions": ["","Accuracy I"],
-		"attackSound": "phasers"
+		"promotions": ["Dragon Heart","Draconic Veins","Dragon Brain"],
+		"attackSound": "nonmetalhit"
 	}
 ]
