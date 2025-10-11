@@ -1,38 +1,38 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Divine Dragonic Empire of Brittania",
+		"leaderName": "Argus Pendragon",
+		"adjective": ["Divine Dragon"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "You are the emperor of Brittania, the king of kings, the divine dragon of balance.",
+		"startIntroPart2": "Make the world your empire. Make the kings of this world bow down to you. For you are the incarnation of the dragons of Brittania.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You are worthy to join under my empire. Be my subject and serve me well.",
+		"attacked": "I am disappointed, nonetheless, I will welcome you under my banner.",
+		"defeated": "I may have failed but that does not mean it is my end, for you are my heir. Whether you want it or not, you inherited my will.",
+		"introduction": "I, Argus Pendragon, welcome you to my empire. Conduct yourself as you are in the presense of the king of kings.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "I have acknowledged your presense, now speak.",
+		"neutralLetsHearIt": ["Speak, and I shall hear it.","You may now speak.","You may begin."],
+		"neutralNo": ["I forbid you to speak about this matter again.","I disagree.","I refuse."],
+		"neutralYes": ["Very good.","Perhaps you are not as dumb as I thought.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "And here I was wondering what was that repulsive presence I felt.",
+		"hateLetsHearIt": ["Kneel!","You are permitted to speak but watch your words.","Out with it."],
+		"hateNo": ["You are as I thought you are, a savage.","I commend you for thinking I would agree just because I have listened to your words.","I am surprised at how bold of you to ask such thing."],
+		"hateYes": ["How surprising, your words are making sense.","Barely acceptable.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "You and I know this would not last for a long time, but very well. Build your army and I will do the same.",
+		"tradeRequest": "I see no reason for you to refuse. Accept it.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [128,0,0],
+		"innerColor": [255,215,0],
+		"unique": "The Dragons of Brittania has blessed this civilization",
+		"cities": ["Penbrith","Caerfynnon","Londinium","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
+			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
+			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
+			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"]
+		"spyNames": ["Gawain","Tristan","Lancelot","Bedivere","Gareth","Agravain","Gaheris","Percival","Galahad","Kay","Merlin","Bors","Palamedes"]
 	}
 ]
