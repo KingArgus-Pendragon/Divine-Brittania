@@ -1,5 +1,5 @@
-# Unciv-mod-example
+# Divine Draconic Empire of Brittania
 
-An example mod for Unciv, that adds one new Civilization.
+My very own creative imagination if you will. Still at testing phase.
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Personal mod to conquer the world of unciv.
