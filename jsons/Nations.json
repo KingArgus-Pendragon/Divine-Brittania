@@ -61,7 +61,7 @@
 			"May choose [1] additional belief(s) of any type when [founding] a religion",
 			"[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>", "[+2 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>",
 			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
-			"Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once."",
+			"Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
 		"cities": ["Penbrith","Caerfynnon","Londinium","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
