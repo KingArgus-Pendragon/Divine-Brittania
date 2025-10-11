@@ -2,10 +2,14 @@
 //Inherent Draconic promotions.
   {
     "name": "Dragon Heart",
-    "uniques": ["[+1] additional attacks per turn"]
+    "uniques": ["[+1] Additional attacks per turn","[+1] Movement]
   },
   {
     "name": "Draconic Veins",
     "uniques": ["Heals [25] damage if it kills a unit"]
+  },
+  {
+    "name": "Draconic Brain",
+    "uniques": ["[+50%] XP gained from combat]
   },
 ]
