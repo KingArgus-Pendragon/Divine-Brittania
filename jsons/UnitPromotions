@@ -1,0 +1,11 @@
+[
+//Inherent Draconic promotions.
+  {
+    "name": "Dragon Heart",
+    "uniques": ["[+1] additional attacks per turn"]
+  },
+  {
+    "name": "Draconic Veins",
+    "uniques": ["Heals [25] damage if it kills a unit"]
+  },
+]
