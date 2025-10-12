@@ -14,7 +14,7 @@
 	{
 		"name": "Wyvern Scout",
 		"unitType": "Scout",
-		"uniqueTo": "Divine Dragonic Empire of Brittania",
+		"uniqueTo": "Divine Draconic Empire of Brittania",
 		"replaces": "Scout",
 		"movement": 3,
 		"strength": 9,
