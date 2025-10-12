@@ -10,5 +10,15 @@
 		"promotions": ["Dragon Heart","Draconic Veins","Draconic Brain"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Wyvern Scout",
+		"unitType": "Scout",
+		"uniqueTo": "Divine Dragonic Empire of Brittania",
+		"replaces": "Scout",
+		"movement": 3,
+		"strength": 9,
+		"cost": 70,
+		"attackSound": "nonmetalhit"
 	}
 ]
