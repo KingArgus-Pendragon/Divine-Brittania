@@ -28,7 +28,7 @@
 
 		"outerColor": [128,0,0],
 		"innerColor": [255,215,0],
-		"uniques": "Free [Great Scientist] appears <upon discovering [Writing] technology>","[Great Scientist] is earned [50]% faster",
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>","[Great Scientist] is earned [50]% faster",
 			"[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			"Great General provides double combat bonus", "[Great General] is earned [50]% faster",
 			"[+20]% Production when constructing [All] wonders [in all cities]",
@@ -61,7 +61,7 @@
 			"May choose [1] additional belief(s) of any type when [founding] a religion",
 			"[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>", "[+2 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>",
 			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
-			"Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+			"Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once."]
 		"cities": ["Penbrith","Caerfynnon","Londinium","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
