@@ -7,7 +7,7 @@
 		"movement": 2,
 		"strength": 12,
 		"cost": 100,
-		"promotions": ["Dragon Heart","Draconic Veins","Dragon Brain"],
+		"promotions": ["Dragon Heart","Draconic Veins","Draconic Brain"],
 		"attackSound": "nonmetalhit"
 	}
 ]
