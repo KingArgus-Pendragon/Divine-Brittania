@@ -28,7 +28,7 @@
 
 		"outerColor": [128,0,0],
 		"innerColor": [255,215,0],
-		"uniques": "Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster",
+		"uniques": "Free [Great Scientist] appears <upon discovering [Writing] technology>","[Great Scientist] is earned [50]% faster",
 			"[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			"Great General provides double combat bonus", "[Great General] is earned [50]% faster",
 			"[+20]% Production when constructing [All] wonders [in all cities]",
