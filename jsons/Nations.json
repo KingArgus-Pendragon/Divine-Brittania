@@ -9,25 +9,17 @@
 		"startIntroPart2": "Make the world your empire. Make the kings of this world bow down to you. For you are the incarnation of the dragons of Brittania.",
 		
 		"declaringWar": "You are worthy to join under my empire. Be my subject and serve me well.",
-		"attacked": "I am disappointed, nonetheless, I will welcome you under my banner.",
-		"defeated": "I may have failed but that does not mean it is my end, for you are my heir. Whether you want it or not, you inherited my will.",
+		"attacked": "Wonderful! Your bravery is much needed for when you serve under me. I welcome you under my banner.",
+		"defeated": "I may have failed but that does not mean it is my end, for you are my heir. Whether you want it or not, you have already inherited my will.",
 		"introduction": "I, Argus Pendragon, welcome you to my empire. Conduct yourself as you are in the presense of the king of kings.",
 		
-		"neutralHello": "I have acknowledged your presense, now speak.",
-		"neutralLetsHearIt": ["Speak, and I shall hear it.","You may now speak.","You may begin."],
-		"neutralNo": ["I forbid you to speak about this matter again.","I disagree.","I refuse."],
-		"neutralYes": ["Very good.","Perhaps you are not as dumb as I thought.","That is very good."],
-
+		"neutralHello": ["I have acknowledged your presense, now speak.","Speak, and I shall hear it."],
 		"hateHello": "And here I was wondering what was that repulsive presence I felt.",
-		"hateLetsHearIt": ["Kneel!","You are permitted to speak but watch your words.","Out with it."],
-		"hateNo": ["You are as I thought you are, a savage.","I commend you for thinking I would agree just because I have listened to your words.","I am surprised at how bold of you to ask such thing."],
-		"hateYes": ["How surprising, your words are making sense.","Barely acceptable.","Very well..."],
 		
-		"afterPeace": "You and I know this would not last for a long time, but very well. Build your army and I will do the same.",
 		"tradeRequest": "I see no reason for you to refuse. Accept it.",
 
-		"outerColor": [128,0,0],
-		"innerColor": [255,215,0],
+		"outerColor": [255,215,0],
+		"innerColor": [128,0,0],
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>","[Great Scientist] is earned [50]% faster",
 			"[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			"Great General provides double combat bonus", "[Great General] is earned [50]% faster",
