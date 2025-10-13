@@ -14,7 +14,7 @@
 		"denounced": "I am greatly disappointed. I swear by my name that I will put you under my rule and correct your wrongs.",
 		"introduction": "I, Argus Pendragon, welcome you to my empire. Conduct yourself as you are in the presense of the king of kings.",
 		
-		"neutralHello": ["I have acknowledged your presense, now speak.","Speak, and I shall hear it."],
+		"neutralHello": "I have acknowledged your presense, now speak.",
 		"hateHello": "And here I was wondering what was that repulsive presence I felt.",
 		
 		"tradeRequest": "I see no reason for you to refuse. Accept it.",
