@@ -24,7 +24,7 @@
   },
   {
     "name": "Lancer",
-    "uniques": ["[+1] additional attacks per turn","[1] movement", "Only available <for units without [Saber]>", "Only available <for units without [Archer]>"],
+    "uniques": ["[+1] additional attacks per turn","[+1] movement", "Only available <for units without [Saber]>", "Only available <for units without [Archer]>"],
     "unitTypes": ["Sword"],
   },
 ]
