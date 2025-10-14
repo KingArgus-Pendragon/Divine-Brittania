@@ -23,8 +23,8 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Saber",
-		"unitType": "Sword",
+		"name": "Servant Saber",
+		"unitType": "Servant",
 		"uniques": ["Only available <upon gaining the [Saber] promotion>"],
 		"movement": 3, 
 		"strength": 20,
@@ -32,8 +32,8 @@
 		"attackSound": "nonmetalhit",
 	},
 	{
-		"name": "Archer",
-		"unitType": "Archery",
+		"name": "Servant Archer",
+		"unitType": "Servant",
 		"uniques": ["Only available <upon gaining the [Archer] promotion>"],
 		"movement": 3, 
 		"strength": 18,
@@ -41,8 +41,8 @@
 		"attackSound": "nonmetalhit",
 	},
 	{
-		"name": "Lancer",
-		"unitType": "Sword",
+		"name": "Servant Lancer",
+		"unitType": "Servant",
 		"uniques": ["Only available <upon gaining the [Lancer] promotion>"],
 		"movement": 3, 
 		"strength": 20,
