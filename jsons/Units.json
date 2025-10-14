@@ -1,4 +1,5 @@
 [
+// Draconic Brittania Units
 	{
 		"name": "Dragon Warrior",
 		"unitType": "Sword",
@@ -20,5 +21,32 @@
 		"strength": 9,
 		"cost": 70,
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Saber",
+		"unitType": "Sword",
+		"uniques": ["only available for <Saber> units"],
+		"movement": 3, 
+		"strength": 20,
+		"cost": 200,
+		"attackSound": "nonmetalhit",
+	},
+	{
+		"name": "Archer",
+		"unitType": "Archery",
+		"uniques": ["only available for <Archer> units"],
+		"movement": 3, 
+		"strength": 20,
+		"cost": 200,
+		"attackSound": "nonmetalhit",
+	},
+	{
+		"name": "Lancer",
+		"unitType": "Sword",
+		"uniques": ["only available for <Lancer> units"],
+		"movement": 3, 
+		"strength": 20,
+		"cost": 200,
+		"attackSound": "nonmetalhit",
 	}
 ]
