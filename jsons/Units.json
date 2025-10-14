@@ -2,7 +2,7 @@
 // Draconic Brittania Units
 	{
 		"name": "Dragon Warrior",
-		"unitType": "Sword",
+		"unitType": "Servant",
 		"uniqueTo": "Divine Draconic Empire of Brittania",
 		"replaces": "Warrior",
 		"movement": 2,
