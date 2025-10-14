@@ -25,7 +25,8 @@
 	{
 		"name": "Servant Saber",
 		"unitType": "Servant",
-		"uniques": ["Only available <upon gaining the [Saber] promotion>"],
+		"uniqueTo": "Divine Draconic Empire of Brittania",
+		"uniques": ["Only available <upon gaining the [Saber] status>"],
 		"movement": 3, 
 		"strength": 20,
 		"cost": 200,
@@ -34,7 +35,8 @@
 	{
 		"name": "Servant Archer",
 		"unitType": "Servant",
-		"uniques": ["Only available <upon gaining the [Archer] promotion>"],
+		"uniqueTo": "Divine Draconic Empire of Brittania",
+		"uniques": ["Only available <upon gaining the [Archer] status>"],
 		"movement": 3, 
 		"strength": 18,
 		"cost": 200,
@@ -43,7 +45,8 @@
 	{
 		"name": "Servant Lancer",
 		"unitType": "Servant",
-		"uniques": ["Only available <upon gaining the [Lancer] promotion>"],
+		"uniqueTo": "Divine Draconic Empire of Brittania",
+		"uniques": ["Only available <upon gaining the [Lancer] status>"],
 		"movement": 3, 
 		"strength": 20,
 		"cost": 200,
