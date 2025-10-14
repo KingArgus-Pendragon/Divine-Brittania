@@ -1,0 +1,8 @@
+[
+//Servants
+    {
+        "name": "Servant",
+        "movementType": "Land",
+        "uniques":["[+50]% strenght"]
+    }
+]
