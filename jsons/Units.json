@@ -9,7 +9,7 @@
 		"strength": 12,
 		"cost": 100,
 		"promotions": ["Dragon Heart","Draconic Veins","Draconic Brain"],
-		"upgradesTo": "Swordsman",
+		"upgradesTo": ["Servant Saber","Servant Archer","Servant Lancer"],
 		"attackSound": "nonmetalhit"
 	},
 	{
