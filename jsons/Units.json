@@ -9,6 +9,7 @@
 		"strength": 12,
 		"cost": 100,
 		"promotions": ["Dragon Heart","Draconic Veins","Draconic Brain"],
+		"unique": ["Can upgrade to [Servant Saber] <for units with [Saber]>","Can upgrade to [Servant Archer] <for units with [Archer]>","Can upgrade to [Servant Lancer] <for units with [Lancer]>"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -25,7 +26,6 @@
 		"name": "Servant Saber",
 		"unitType": "Servant",
 		"uniqueTo": "Divine Draconic Empire of Brittania",
-		"uniques": ["Only available <upon gaining the [Saber] status>"],
 		"movement": 3, 
 		"strength": 20,
 		"cost": 200,
@@ -35,7 +35,6 @@
 		"name": "Servant Archer",
 		"unitType": "Servant",
 		"uniqueTo": "Divine Draconic Empire of Brittania",
-		"uniques": ["Only available <upon gaining the [Archer] status>"],
 		"movement": 3, 
 		"strength": 18,
 		"cost": 200,
@@ -45,7 +44,6 @@
 		"name": "Servant Lancer",
 		"unitType": "Servant",
 		"uniqueTo": "Divine Draconic Empire of Brittania",
-		"uniques": ["Only available <upon gaining the [Lancer] status>"],
 		"movement": 3, 
 		"strength": 20,
 		"cost": 200,
