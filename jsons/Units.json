@@ -25,7 +25,7 @@
 	{
 		"name": "Saber",
 		"unitType": "Sword",
-		"uniques": ["only available for <Saber> units"],
+		"uniques": ["only available <for [Saber]> units"],
 		"movement": 3, 
 		"strength": 20,
 		"cost": 200,
@@ -34,16 +34,16 @@
 	{
 		"name": "Archer",
 		"unitType": "Archery",
-		"uniques": ["only available for <Archer> units"],
+		"uniques": ["only available <for [Archer]> units"],
 		"movement": 3, 
-		"strength": 20,
+		"strength": 18,
 		"cost": 200,
 		"attackSound": "nonmetalhit",
 	},
 	{
 		"name": "Lancer",
 		"unitType": "Sword",
-		"uniques": ["only available for <Lancer> units"],
+		"uniques": ["only available <for [Lancer]> units"],
 		"movement": 3, 
 		"strength": 20,
 		"cost": 200,
