@@ -3,6 +3,6 @@
     {
         "name": "Servant",
         "movementType": "Land",
-        "uniques":["[+50]% strength"]
+        "uniques":["[+50]% Strength"]
     }
 ]
