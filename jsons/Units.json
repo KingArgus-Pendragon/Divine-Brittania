@@ -25,7 +25,7 @@
 	{
 		"name": "Saber",
 		"unitType": "Sword",
-		"uniques": ["only available <upon gaining the [Saber] promotion>"],
+		"uniques": ["Only available <upon gaining the [Saber] promotion>"],
 		"movement": 3, 
 		"strength": 20,
 		"cost": 200,
@@ -34,7 +34,7 @@
 	{
 		"name": "Archer",
 		"unitType": "Archery",
-		"uniques": ["only available <upon gaining the [Archer] promotion>"],
+		"uniques": ["Only available <upon gaining the [Archer] promotion>"],
 		"movement": 3, 
 		"strength": 18,
 		"cost": 200,
@@ -43,7 +43,7 @@
 	{
 		"name": "Lancer",
 		"unitType": "Sword",
-		"uniques": ["only available <upon gaining the [Lancer] promotion>"],
+		"uniques": ["Only available <upon gaining the [Lancer] promotion>"],
 		"movement": 3, 
 		"strength": 20,
 		"cost": 200,
