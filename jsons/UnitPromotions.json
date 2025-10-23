@@ -14,6 +14,14 @@
   },
   { 
     "name": "Draconic Leylines",
-    "umiques": "Double movement in [All]"
+    "uniques": ["Double movement in [All]"]
+  },
+  {
+    "name": "Dragon Body",
+    "uniques": ["[+50]% Strength"]
+  },
+  {
+    "name": "Draconic Wings",
+    "uniques": ["[This Unit] gains the [March] promotion"]
   }
 ]
