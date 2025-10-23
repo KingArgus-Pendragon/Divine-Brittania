@@ -8,7 +8,7 @@
 		"movement": 2,
 		"strength": 12,
 		"cost": 100,
-		"promotions": ["Dragon Heart","Draconic Veins","Draconic Brain"],
+		"promotions": ["Dragon Heart","Draconic Veins","Draconic Brain","Draconic Leylines"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -19,6 +19,7 @@
 		"movement": 3,
 		"strength": 9,
 		"cost": 70,
+		"promotions": ["Draconic Leylines"],
 		"attackSound": "nonmetalhit"
 	}	
 ]
