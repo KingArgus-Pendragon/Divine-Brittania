@@ -12,19 +12,8 @@
     "name": "Draconic Brain",
     "uniques": ["[+75]% XP gained from combat", "[50] XP gained from combat"]
   },
-  {
-    "name": "Saber",
-    "uniques": ["[+50]% Strength", "Only available <for units without [Archer]>","Only available <for units without [Lancer]>"],
-    "unitTypes": ["Servant"],
-  },
-  {
-    "name": "Archer",
-    "uniques": ["[4] Range", "[5] Sight", "Only available <for units without [Saber]>","Only available <for units without [Lancer]>"],
-    "unitTypes": ["Servant"],
-  },
-  {
-    "name": "Lancer",
-    "uniques": ["[+1] additional attacks per turn","[1] Movement", "Only available <for units without [Saber]>", "Only available <for units without [Archer]>"],
-    "unitTypes": ["Servant"],
-  },
+  { 
+    "name": "Draconic Leylines",
+    "umiques": "Double movement in [All]"
+  }
 ]
